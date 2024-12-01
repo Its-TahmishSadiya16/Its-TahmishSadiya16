@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahmish Sadiya</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
-<img align="right" width="400" src="https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg?semt=ais_hybrid">
+<img align="right" width="300" hight="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+
 
 - 🔭 I’m currently working on **Web development projects**
 
